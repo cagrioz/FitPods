@@ -10,6 +10,14 @@ I've started FitPods to make Android users able to test the fitting their AirPod
 - Custom Google Fonts and some icons
 - UI design and components
 
+## How Can You Test The App?
+- Download the repo.
+```
+npm install
+npm start
+```
+After you run these commands expo tab will be opened into your browser. You can either view the app via an Emulator (Android Studio) or just download the app called Expo to your phone. After you download the Expo app into your phone just scan the QR code that in the opened tab. Then, you'll be able to view the app.
+
 ## Compatibility
 Compatible with React Native 0.62.2
 
